@@ -1,0 +1,8 @@
+name: inspec_practice
+title: InSpec Profile
+maintainer: sarath
+copyright: sarath
+copyright_email: sarathkumar.s@8kmiles.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
